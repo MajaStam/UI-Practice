@@ -14,3 +14,12 @@ p{
     font-family: "Arial Black";
     color: darkkhaki;
 }
+
+#signup{
+    background-color: brown;
+}
+
+.btn1{
+    background-color: blueviolet;
+    font-size: 25px;
+}
