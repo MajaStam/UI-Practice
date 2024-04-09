@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+p{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+
+.class1{
+    background-color: plum;
+    font-size: 12px;
+    font-family: "Arial Black";
+    color: darkkhaki;
+}
